@@ -1,0 +1,17 @@
+body{
+
+}
+header{
+  background:
+}
+nav li{
+  padding-left: 100px;
+  display: inline;
+  background-color: #1689C7;
+  color: white;
+  text-align: center;
+}
+nav li.active{
+  background-color: #0D4D6F;
+
+}
